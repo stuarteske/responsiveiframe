@@ -1,3 +1,7 @@
+## Usage
+`<iframe src="http://cfa-marketing.com/" style="width: 100%; padding: 0px;margin: 0; border: none; display: block;height:100%; overflow: hidden;"></iframe>`
+
+
 ## Documentation
 
 [http://npr.github.com/responsiveiframe/](http://npr.github.com/responsiveiframe/)
